@@ -1,0 +1,51 @@
+AA - Czy jest drapieżnikiem ?
+AB - Czy jest padlinożercą ?
+AC - Czy jest roślinożercą ?
+AD - Czy jest wszystkożercą ?
+AE - Czy ma paski ?
+AF - Czy ma cętki ? (Łaty też się liczą)
+AG - Czy ma sierść ?
+AH - Czy ma futro ?
+AI - Czy ma gołą skórę ?
+AJ - Czy ma pióra ?
+AK - Czy jest koloru białego ?
+AL - Czy jest koloru biało-czarnego ?
+AM - Czy jest koloru brązowego ?
+AN - Czy jest koloru szarego ?
+AO - Czy jest koloru żółtego ?
+AP - Czy jest koloru pomarańczowego ?
+AR - Czy jest koloru czarnego ?
+AS - Czy ma multum kolorów ? (więcej niż dwa)
+AT - Czy jest ssakiem ?
+AU - Czy jest gadem ?
+AW - Czy jest ptakiem ?
+AV - Należy do człegokształtnych ?
+AX - Należy do parzystokopytnych ?
+AY - Używa jadu ?
+AZ - Czy dusi swoje ofiary ?
+BA - Czy ma ostre zęby/dziób ?
+BB - Czy posiada poroże/rogi ?
+BC - Czy szybko biega ?
+BD - Czy jest bardzo duży ?
+BE - Mieszka w strefie podbiegunowej ?
+BF - Mieszka w dżungli ?
+BG - Mieszka na sawannie ?
+BH - Czy chodzi własnymi ścieżkami ?
+BI - Czy jest wierny ?
+BJ - Czy ma dobrą pamięć ?
+BK - Czy występuje introdukowanie ? (wprowadzone przez zamierzoną albo niezamierzoną ingerencję człowieka) 
+BL - Czy żyje w stadzie ?
+BM - Czy żyje samotnie ?
+BN - Czy żyje w azji ?
+BO - Czy ma dostojny wygląd ?
+BP - Czy wygląda zabawnie ?
+BR - Czy ma długą szyje ?
+BS - Czy ma tylko białą głowę ?
+BT - Czy jest godłem jakiegoś kraju ?
+BU - Czy pomoga św. Mikołajowi ?
+BW - Czy jest hodowany ?
+BV - Czy ma ostre kły ?
+BX - Czy żyje tylko w ameryce ?
+BY - Czy nie ma nóg/łap ?
+BZ - Czy jest nielotem ?
+CA - Czy lata ?

@@ -1,0 +1,42 @@
+01 - Tygrys Bengalski
+02 - Tygrys Syberyjski
+03 - Pingwin
+04 - Pingwin Cesarski
+05 - Pingwin Adeli
+06 - Struś
+07 - Żyrafa
+08 - Niedźwiedź
+09 - Niedźwiedź Polarny
+10 - Niedźwiedź Grizly
+11 - Orzeł
+12 - Orzeł Bielik
+13 - Bielik Amerykański
+14 - Lew
+15 - Słoń Afrykański
+16 - Słoń Indyjski
+17 - Zebra
+18 - Łoś
+19 - Jeleń
+20 - Renifer
+21 - Krowa
+22 - Pies
+23 - Pies Dingo
+24 - Kot
+25 - Dzik
+26 - Puma
+27 - Jaguar
+28 - Hiena
+29 - Wilk
+30 - Anakonda
+31 - Boa
+32 - Żmija
+33 - Jakiś wąż
+34 - Papuga
+35 - Albatros
+36 - Wróbel
+37 - Wrona
+38 - Goryl
+39 - Szympans
+40 - Orangutan
+41 - Lemur 
+42 - Gepard

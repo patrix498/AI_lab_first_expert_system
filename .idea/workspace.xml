@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e14a35ea-d97d-4e9e-b0ea-dad1b6c84131" name="Default Changelist" comment="" />
+    <list default="true" id="e14a35ea-d97d-4e9e-b0ea-dad1b6c84131" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +20,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/AI_lab_first_expert_system/AI_lab_first_expert_system.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-255">
+            <state relative-caret-position="17">
               <caret line="81" column="59" selection-start-line="81" selection-start-column="59" selection-end-line="81" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -59,6 +61,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -82,14 +85,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557951393628" />
-    <property name="last_opened_file_path" value="$USER_HOME$/siec_neuronowa_01" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zaj07" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -149,16 +151,18 @@
       <workItem from="1554311391204" duration="6280000" />
       <workItem from="1557326363495" duration="6244000" />
       <workItem from="1557951327319" duration="71000" />
+      <workItem from="1558883560299" duration="17000" />
+      <workItem from="1558883873811" duration="503000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12595000" />
+    <option name="totallyTimeSpent" value="13115000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1872" height="1096" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17604856" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17935982" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -199,7 +203,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/AI_lab_first_expert_system/AI_lab_first_expert_system.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255">
+        <state relative-caret-position="17">
           <caret line="81" column="59" selection-start-line="81" selection-start-column="59" selection-end-line="81" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
